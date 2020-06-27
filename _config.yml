@@ -16,9 +16,9 @@ defaults:
 
 title: dengqiqi的世界
 name: dengqiqi
-description: Minimalism is a jekyll theme for minimalist
+description: 2020/06/12-2030/06/12 十年之后，见证成长
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/dengqiqi
 rss: true
 
 plugins:
@@ -34,3 +34,6 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+
+root: /dengqiqi.github.io
+

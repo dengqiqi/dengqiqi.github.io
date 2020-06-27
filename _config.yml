@@ -14,8 +14,8 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
+title: dengqiqi的世界
+name: dengqiqi
 description: Minimalism is a jekyll theme for minimalist
 
 github: https://github.com/showzeng/Minimalism

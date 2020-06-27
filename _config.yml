@@ -18,9 +18,52 @@ title: dengqiqi的世界
 name: dengqiqi
 description: 每一天的努力，是为了遇见明天更好的自己。
 
+url: https://dengqiqi.github.io
+
+copyright_time: 2020
+
+# --- 文章列表页 ---
+# 文章列表是否显示摘要
+show_excerpt: true
+# --- 文章页 ---
+
 github: https://github.com/dengqiqi
-email: 1793718180@qq.com
+email: mailto:1793718180@qq.com
 twitter: https://twitter.com/cloudflyingd
+
+# --- 站点统计 ---
+# 如果你想开启站点统计，取消下面一行注解，并填写相应统计运营商给的 id，可支持多个同时开启
+#site_statistics: true
+# cnzz (友盟统计)
+#cnzz_id: 
+# Baidu (百度统计)
+baidu_id: 18273e9af4920f723f24b2ec056a24af
+# Google Analytics (谷歌统计)
+# google_id:
+# --- 站点统计 ---
+
+
+# --- 打赏设置 ---
+# 开启打赏，取消下面一行注解，并将微信和支付宝的收款二维码放置在 /assets/img/ 文件夹下
+# 同时图片的文件名必须为 alipay 和 wechat
+reward: true
+# 打赏的推广语
+reward_description: 如果你觉得本文对你有帮助，不妨请我喝杯咖啡
+# --- 打赏设置 ---
+
+# --- 评论设置 ---
+# 开启评论，取消下面一行注解，并填写相应评论运营商提供的 id，目前仅支持来必力和 gitment
+comment: true
+# 来必力 uid
+# livere_uid:
+# gitment 用户主，即 GitHub 用户名
+gitment_owner: varenyzc
+# GitHub pages 仓库名，如：showzeng.github.io
+gitment_repo: varenyzc.github.io
+# gitment 提供的对应 id 和 secret
+gitment_client_id: 76bb22ffd69cb9a2dc11
+gitment_secret: 1bc48766be80fbcb2802679ab796d76ac4fafe44
+# --- 评论设置 ---
 
 rss: true
 

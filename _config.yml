@@ -16,9 +16,12 @@ defaults:
 
 title: dengqiqi的世界
 name: dengqiqi
-description: 每一天的努力，是为了看见明天更好的自己。
+description: 每一天的努力，是为了遇见明天更好的自己。
 
 github: https://github.com/dengqiqi
+email: 1793718180@qq.com
+twitter: https://twitter.com/cloudflyingd
+
 rss: true
 
 plugins:

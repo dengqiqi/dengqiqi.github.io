@@ -16,7 +16,7 @@ defaults:
 
 title: dengqiqi的世界
 name: dengqiqi
-description: 2020/06/12-2030/06/12 十年之后，见证成长
+description: 每一天的努力，是为了看见明天更好的自己。
 
 github: https://github.com/dengqiqi
 rss: true
@@ -36,4 +36,6 @@ exclude:
   - Gemfile.lock
 
 root: /dengqiqi.github.io
+
+copyright_time: "2020"
 

@@ -67,14 +67,14 @@ a {
       color: #111;
       -webkit-transform: scale(1.05);
               transform: scale(1.05);
-      border-bottom: 2px solid #ffea00;
+      border-bottom: 2px solid #158ed4;
     }
   }
 
   .article-header {
     &:hover {
       .article-title {
-        border-bottom: 2px solid #ffea00;
+        border-bottom: 2px solid #158ed4;
       }
     }
   }

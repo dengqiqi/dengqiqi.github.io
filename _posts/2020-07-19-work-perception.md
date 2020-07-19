@@ -2,7 +2,7 @@
 title: 【工作感悟1】 编程是一次写作
 date:  2020-07-19 14:53:14 +0800
 category: Essay
-tags: 工作感悟
+tags: ["工作感悟"]
 excerpt: 工作感悟：编程如同写作
 ---
 

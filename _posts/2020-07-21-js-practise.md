@@ -105,15 +105,18 @@ excerpt: 打卡练习模式第一天
 
    ```js
    function removeLastStr(str, targetStr) {
+     if (!str || !targetStr) {
+       return str;
+     }
      var index = str.lastIndexOf(targetStr);
      var len = targetStr.length;
-     return str.slice(0, index).concat(str.slice(index + len));
+     return index !== -1 ?  str.slice(0, index) + str.slice(index + len) : str;
    }
    
    var testStr = 'dig big egg';
-   var result = removeLastStr(testStr, 'ig');
+var result = removeLastStr(testStr, 'ig');
    log(result, result.length);
    ```
-
+   
    
 

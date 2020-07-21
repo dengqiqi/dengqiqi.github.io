@@ -4,11 +4,13 @@ title: 关于
 reward: false
 ---
 
-### Minimalism
+### 关于我
 
 ---
 
-[Minimalism] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
+Hi! 我是一只喜欢宁静生活的蓝精灵，从事前端开发的工作。
 
-[Minimalism]: https://github.com/showzeng/Minimalism
-[Jekyll]: https://jekyllrb.com/
+我非常喜欢蓝色。<br />
+喜欢蓝蓝的天空，<br />
+喜欢蓝蓝的大海，<br />
+Oh~还有蓝蓝的自己！

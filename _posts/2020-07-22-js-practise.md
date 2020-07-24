@@ -2,7 +2,7 @@
 title: 前端练习Day2
 date:  2020-07-22 19:10:23 +0800
 category: Practise
-tags: ["js练习"]
+tags: ["前端练习"]
 excerpt: 打卡练习模式第二天
 ---
 

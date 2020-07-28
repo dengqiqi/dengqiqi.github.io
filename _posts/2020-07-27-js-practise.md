@@ -124,7 +124,7 @@ excerpt: 打卡练习模式第七天
 
    我的答案：
 
-   window对象是BOM中的核心对象，它是一个窗口后者是一个框架的抽象。它js执行时的全局对象。而document表示的是文档对象，它是window对象上的一个属性。
+   window对象是BOM中的核心对象，它是一个窗口或者是一个框架的抽象。它是js运行时的全局对象。而document表示的是文档对象，它是window对象上的一个属性。
 
    ```js
    window.document === document // true

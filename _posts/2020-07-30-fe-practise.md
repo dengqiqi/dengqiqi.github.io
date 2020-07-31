@@ -2,7 +2,7 @@
 title: 前端练习Day10
 date:  2020-07-30 19:40:48 +0800
 category: Practise
-tags: "前端练习"]
+tags: ["前端练习"]
 excerpt: 打卡练习模式第十天
 ---
 

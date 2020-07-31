@@ -30,6 +30,7 @@ excerpt: 打卡练习模式第五天
 
    输入: "A man, a plan, a canal: Panama"
    输出: true
+
    示例 2:
 
    输入: "race a car"

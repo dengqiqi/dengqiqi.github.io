@@ -72,4 +72,12 @@ excerpt: 快速查看往日前端练习
 
 [Day12](https://dengqiqi.github.io/practise/2020/08/01/fe-practise.html)    :  **正则表达式专项练习**
 
-[Day13](https://dengqiqi.github.io/practise/2020/08/02/fe-practise.html)    :  
+[Day13](https://dengqiqi.github.io/practise/2020/08/02/fe-practise.html)    :  请快速答出此题的答案并解释：var x, y = 1; x + y = ?
+
+​				  两种方法写乘法口诀表
+
+[Day14](https://dengqiqi.github.io/practise/2020/08/02/fe-practise.html)    :  分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果
+
+​				  写一个字符串重复的repeat函数
+
+​				  请实现一个flattenDeep函数，把多维数组扁平化

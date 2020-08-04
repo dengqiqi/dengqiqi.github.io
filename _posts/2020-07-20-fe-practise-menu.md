@@ -76,8 +76,17 @@ excerpt: 快速查看往日前端练习
 
 ​				  两种方法写乘法口诀表
 
-[Day14](https://dengqiqi.github.io/practise/2020/08/02/fe-practise.html)    :  分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果
+[Day14](https://dengqiqi.github.io/practise/2020/08/03/fe-practise.html)    :  分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果
 
 ​				  写一个字符串重复的repeat函数
 
 ​				  请实现一个flattenDeep函数，把多维数组扁平化
+
+[Day15](https://dengqiqi.github.io/practise/2020/08/04/fe-practise.html)    :  js的函数有哪几种调用形式？
+
+​				  用js写出死循环的方法有哪些？
+
+​				  你所知道的http的响应码和含义
+
+​				  
+

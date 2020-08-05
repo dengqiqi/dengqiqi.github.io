@@ -88,5 +88,11 @@ excerpt: 快速查看往日前端练习
 
 ​				  你所知道的http的响应码和含义
 
+[Day16](https://dengqiqi.github.io/practise/2020/08/05/fe-practise.html)    :  手写find函数
+
+​				  列举强制类型转换和隐式类型转换
+
+​				  手写深度比较函数
+
 ​				  
 

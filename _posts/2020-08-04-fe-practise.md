@@ -3,7 +3,7 @@ title: 前端练习Day15
 date:  2020-08-04 20:01:45 +0800
 category: Practise
 tags: ["前端练习"]
-excerpt: 打卡练习模式第十五天1. 
+excerpt: 打卡练习模式第十五天
 ---
 
 

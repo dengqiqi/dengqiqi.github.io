@@ -33,21 +33,22 @@ excerpt: 打卡练习模式第十七天
 
    ```js
    var search = document.getElementById('search');
-   
+      
    function debounce(fn, timeGap = 500) {
      var timer;
-   
+      
      return function() {
        if (timer) {
          clearTimeout(timer);
        }
+       var args = arguments;
        timer = setTimeout(function() {
-         fn.apply(this, arguments)
+         fn.apply(this, args);
        }, timeGap)
      }
    }
-   search.addEventListener('keyup', debounce(function(){
-     log(search.value);
+   search.addEventListener('keyup', debounce(function(e){
+     log(search.value, e);
    }));
    ```
 

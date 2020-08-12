@@ -67,6 +67,17 @@ excerpt: 打卡练习模式第十五天
    })();
    ```
 
+   情况四：鬼打墙（入口即出口）
+
+   ```js
+   var obj = {
+     set val (value) {
+       this.val = value;
+     }
+   }
+   obj.val = 3;
+   ```
+
    <br />
 
 3. **你所知道的http的响应码和含义**
